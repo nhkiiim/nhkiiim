@@ -1,6 +1,7 @@
 
-<h1 align="center"> Welcome! </h1>
+<h1> Welcome! </h1>
 <br>
+<h3 align="center"> 🔥 Tech Stack 🔥 </h3>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhkiiim&layout=compact&title_color=5e6472&text_color=5e6472"/>
@@ -15,3 +16,4 @@
   <img src="https://img.shields.io/badge/Vue.js-757bc8?style=flat-square&logo=vue-dot-js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
  </p>
+<br>
