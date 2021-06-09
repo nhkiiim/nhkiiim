@@ -1,13 +1,13 @@
 
 <h1> Welcome! </h1>
 <br>
-<h3 align="center"> 🔥 Tech Stack 🔥 </h3>
+<h3 align="center"> 🔥 Tech Stack 🔥 </h3><br>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhkiiim&layout=compact&title_color=5e6472&text_color=5e6472"/>
   </a>
 </p>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ff595e?style=flat-square&logo=Java&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/JavaScript-ffca3a?style=flat-square&logo=JavaScript&logoColor=white"/></a>
