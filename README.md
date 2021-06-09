@@ -1,5 +1,4 @@
 # Welcome!
 <br>
-<br>
-<h2> &nbsp;💻&nbsp; 📝&nbsp; 👀&nbsp; 👩‍💻&nbsp; 🍦&nbsp; 🥔&nbsp; </h2>
+<h3> &nbsp;💻&nbsp; 📝&nbsp; 👀&nbsp; 👩‍💻&nbsp; 🍦&nbsp; 🥔&nbsp; </h3>
 <br><br><br><br>
