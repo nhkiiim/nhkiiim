@@ -1,3 +1,2 @@
 ## Welcome!
-<center> 왼쪽 </center>
-<h3 align="center"> 💻 📝 👀 👩‍💻 🍦 🥔 </h3>
+<h3 align="center"> &nbsp;💻&nbsp; 📝&nbsp; 👀&nbsp; 👩‍&nbsp; 💻&nbsp; 🍦&nbsp; 🥔&nbsp; </h3>
